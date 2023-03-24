@@ -1,31 +1,32 @@
- [
+{
+  "post": [
     {
-      "id": 1,
-      "name": "Ground Floor",
-      "email": "Group1",
-      "phone": "video_1.mp4",
-      "dob": ""
+      "": "Product\/Service 1",
+      "Description": "Sink",
+      "Quantity": "2",
+      "Unit Price": "100",
+      "Total": "$200"
     },
     {
-      "name": "Ground Floor",
-      "email": "Group1",
-      "phone": "video_2.mp4",
-      "dob": "",
-      "id": 5
+      "": "Product\/Service 2",
+      "Description": "Nest Smart Filter",
+      "Quantity": "1",
+      "Unit Price": "150",
+      "Total": "$180"
     },
     {
-      "name": "Ground Floor",
-      "email": "Group2",
-      "phone": "video_3.mp4",
-      "dob": "",
-      "id": 6
+      "": "Product\/Service 3",
+      "Description": "Labor Fee",
+      "Quantity": "1",
+      "Unit Price": "50",
+      "Total": "$50"
     },
     {
-      "name": "First Floor",
-      "email": "Group3",
-      "phone": "video_4.mp4",
-      "dob": "",
-      "id": 7
+      "": "Product\/Service 4",
+      "Description": "Service Fee",
+      "Quantity": "1",
+      "Unit Price": "25",
+      "Total": "$25"
     }
-    
   ]
+}
